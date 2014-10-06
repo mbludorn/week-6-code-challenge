@@ -1,0 +1,31 @@
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\obj\Debug\week 6-1 code challenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\week 6-1 code challenge.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\week 6-1 code challenge.pdb
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\Antlr3.Runtime.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\EntityFramework.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\Newtonsoft.Json.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Net.Http.Formatting.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Http.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Http.WebHost.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Mvc.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Optimization.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Providers.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Razor.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.WebPages.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.WebPages.Razor.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\WebGrease.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\EntityFramework.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\Newtonsoft.Json.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Net.Http.Formatting.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Http.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Http.WebHost.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Mvc.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.Razor.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.WebPages.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\bin\System.Web.WebPages.Razor.xml
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\obj\Debug\week 6-1 code challenge.dll
+C:\Users\Technologist\Documents\GitHub\Week1Practice\week 6-1 code challenge\week 6-1 code challenge\obj\Debug\week 6-1 code challenge.pdb

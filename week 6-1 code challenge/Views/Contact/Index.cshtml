@@ -1,0 +1,39 @@
+﻿@model week_6_1_code_challenge.Models.Contactajax
+
+<form id="contactajax" action="@Url.Action("Index", "Contact")" method="post">   
+     @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>ContactForm</legend>
+
+        <div>
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.Email)
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.Message)
+            @Html.EditorFor(model => model.Message)
+            @Html.ValidationMessageFor(model => model.Message)
+        </di>
+
+        <p>
+            <input type="submit" value="Submit" />
+        </p>
+    </fieldset>
+    </form>
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
